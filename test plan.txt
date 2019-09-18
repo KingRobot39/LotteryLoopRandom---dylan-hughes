@@ -1,0 +1,8 @@
+test that program generates 3 random numbers and displays them correctly
+create / test a loop that generates 3 random numbers and displays them correctly 1000 times
+test if statement that compairs the 3 random numbers to 3 user entered numbers and exits the loop if a match is found
+test that winning and failing messages appear correctly
+test listbox resets when the generate button is pressed each time
+test validation
+test that all backcolor changes apply and reset properly
+test clear button
